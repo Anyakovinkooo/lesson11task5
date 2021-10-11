@@ -3,6 +3,7 @@
 }
 .gallery {
   display: flex;
+  overflow-x: auto;
 }
 .thumb {
   margin: 8px;
